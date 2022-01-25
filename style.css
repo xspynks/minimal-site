@@ -149,6 +149,9 @@ footer {
         align-items: center;
         justify-content: space-between;
     }
+    .avatar {
+        margin-top: 100px;
+    }
     .logo-text {
         padding-left: 15px;
         word-break: keep-all;
