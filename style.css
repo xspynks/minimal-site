@@ -162,6 +162,9 @@ footer {
         transition: .6s;
         visibility: hidden;
     }
+    .about {
+        margin-bottom: 100px;
+    }
     .footer {
         margin-left: auto;
         margin-right: auto;
