@@ -178,7 +178,7 @@ footer {
         width: 20px;
         border-top: 2px solid;
         display: block;
-        color: #FFB20F;
+        color: #1565c0;
     }
     #burger::after,
     #burger::before {
