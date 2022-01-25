@@ -127,6 +127,11 @@ footer {
 }
 
 @media screen and (max-width:768px) {
+    body {
+        margin: 0px;
+        padding: 0px;
+        background-color: #fafafa;
+    }
     #btn-mobile {
         display: block;
         margin-right: 20px;
